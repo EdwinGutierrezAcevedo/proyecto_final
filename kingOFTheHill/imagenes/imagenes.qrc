@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>spriteHomeroCorriendoSinF.png</file>
+        <file>fondo.png</file>
+    </qresource>
+</RCC>
