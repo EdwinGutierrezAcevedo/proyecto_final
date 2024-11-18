@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/imagenes/cono.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/imagenes/fondo.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/imagenes/spriteHomeroCorre.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/imagenes/spriteHomeroSaltando.png"
+	],
+	"LOCK_FILE" : "C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/kingOFTheHill_autogen.dir/AutoRcc_imagenes_PDQGBE54DQ_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "imagenes" ],
+	"OUTPUT_CHECKSUM" : "PDQGBE54DQ",
+	"OUTPUT_NAME" : "qrc_imagenes.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.3/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/kingOFTheHill_autogen.dir/AutoRcc_imagenes_PDQGBE54DQ_Used.txt",
+	"SOURCE" : "C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/imagenes/imagenes.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

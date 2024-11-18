@@ -2,7 +2,7 @@
     <qresource prefix="/new/prefix1">
         <file>fondo.png</file>
         <file>spriteHomeroSaltando.png</file>
-        <file>spriteHomeroCorriendo.png</file>
         <file>spriteHomeroCorre.png</file>
+        <file>cono.png</file>
     </qresource>
 </RCC>

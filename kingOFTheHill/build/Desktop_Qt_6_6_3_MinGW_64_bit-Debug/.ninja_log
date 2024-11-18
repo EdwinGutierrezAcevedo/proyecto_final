@@ -1,0 +1,59 @@
+# ninja log v6
+7	939	7535977353504134	build.ninja	f1c53bad4bf92190
+1568	4957	7535972487582244	CMakeFiles/kingOFTheHill.dir/homero.cpp.obj	3f861c36b98a173f
+36	801	7535976198631015	kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+292	457	7535949536122287	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/PDQGBE54DQ/qrc_imagenes.cpp	ef8d0b42c6b21f08
+36	801	7535976198631015	kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+36	801	7535976198631015	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+4581	5067	7535976237392309	kingOFTheHill.exe	4a91ad24370fdcfb
+36	801	7535976198631015	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+292	457	7535949536122287	kingOFTheHill_autogen/PDQGBE54DQ/qrc_imagenes.cpp	ef8d0b42c6b21f08
+468	2656	7535949536381607	CMakeFiles/kingOFTheHill.dir/kingOFTheHill_autogen/PDQGBE54DQ/qrc_imagenes.cpp.obj	e95efa0c1b9a6c1
+811	4535	7535976199689923	CMakeFiles/kingOFTheHill.dir/main.cpp.obj	6c21fa39938e2789
+803	4527	7535976199619703	CMakeFiles/kingOFTheHill.dir/kingOFTheHill_autogen/mocs_compilation.cpp.obj	2d7816c82eeca87d
+822	4581	7535976199809570	CMakeFiles/kingOFTheHill.dir/mainwindow.cpp.obj	a10da6b04db4a061
+1580	4632	7535972487701928	CMakeFiles/kingOFTheHill.dir/imagenes/cono.cpp.obj	8d6102c7406b1cdc
+1133	4928	7535974851981602	CMakeFiles/kingOFTheHill.dir/cono.cpp.obj	f83a20b0104877b4
+40	301	7535977401235121	kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+40	301	7535977401235121	kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+40	301	7535977401235121	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+40	301	7535977401235121	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+303	467	7535977405393993	kingOFTheHill_autogen/PDQGBE54DQ/qrc_imagenes.cpp	ef8d0b42c6b21f08
+303	467	7535977405393993	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/PDQGBE54DQ/qrc_imagenes.cpp	ef8d0b42c6b21f08
+477	2973	7535977405603429	CMakeFiles/kingOFTheHill.dir/kingOFTheHill_autogen/PDQGBE54DQ/qrc_imagenes.cpp.obj	e95efa0c1b9a6c1
+467	3852	7535977405513673	CMakeFiles/kingOFTheHill.dir/mainwindow.cpp.obj	a10da6b04db4a061
+3853	4469	7535977439366129	kingOFTheHill.exe	4a91ad24370fdcfb
+43	327	7535978341034692	kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+43	327	7535978341034692	kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+43	327	7535978341034692	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+43	327	7535978341034692	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+339	3266	7535978343986807	CMakeFiles/kingOFTheHill.dir/cono.cpp.obj	f83a20b0104877b4
+329	3815	7535978343887059	CMakeFiles/kingOFTheHill.dir/mainwindow.cpp.obj	a10da6b04db4a061
+3815	4324	7535978378746432	kingOFTheHill.exe	4a91ad24370fdcfb
+34	248	7535979634239954	kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+34	248	7535979634239954	kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+34	248	7535979634239954	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+34	248	7535979634239954	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+249	2966	7535979636388686	CMakeFiles/kingOFTheHill.dir/mainwindow.cpp.obj	a10da6b04db4a061
+2967	3479	7535979663566516	kingOFTheHill.exe	4a91ad24370fdcfb
+34	817	7535982534048939	kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+34	817	7535982534048939	kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+34	817	7535982534048939	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+34	817	7535982534048939	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+846	5330	7535982535308239	CMakeFiles/kingOFTheHill.dir/homero.cpp.obj	3f861c36b98a173f
+818	5579	7535982535025936	CMakeFiles/kingOFTheHill.dir/kingOFTheHill_autogen/mocs_compilation.cpp.obj	2d7816c82eeca87d
+827	5638	7535982535117313	CMakeFiles/kingOFTheHill.dir/main.cpp.obj	6c21fa39938e2789
+837	5673	7535982535218492	CMakeFiles/kingOFTheHill.dir/mainwindow.cpp.obj	a10da6b04db4a061
+5674	6165	7535982583588875	kingOFTheHill.exe	4a91ad24370fdcfb
+54	336	7535983276707516	kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+54	336	7535983276707516	kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+54	336	7535983276707516	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+54	336	7535983276707516	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+337	3452	7535983279539904	CMakeFiles/kingOFTheHill.dir/mainwindow.cpp.obj	a10da6b04db4a061
+3452	3935	7535983310691649	kingOFTheHill.exe	4a91ad24370fdcfb
+41	303	7535986519558528	kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+41	303	7535986519558528	kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+41	303	7535986519558528	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/timestamp	f4d6de13ccde5725
+41	303	7535986519558528	C:/Users/Edwin Gutierrez/Documents/info2/proyectoFinal/codigo/kingOFTheHill/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/kingOFTheHill_autogen/mocs_compilation.cpp	f4d6de13ccde5725
+305	3127	7535986522201466	CMakeFiles/kingOFTheHill.dir/mainwindow.cpp.obj	a10da6b04db4a061
+3127	3600	7535986550426091	kingOFTheHill.exe	4a91ad24370fdcfb
