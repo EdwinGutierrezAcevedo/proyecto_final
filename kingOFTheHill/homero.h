@@ -23,6 +23,8 @@ public:
     QRectF boundingRect() const override;
     void paint(QPainter *painter, const QStyleOptionGraphicsItem *option, QWidget *widget = nullptr) override;
     void Saltar(); // Nueva función para manejar el salto
+    void stopTimers();  // Detener los temporizadores de Homero
+
 
 private:
 
@@ -30,6 +32,8 @@ private:
     int jumpFrame; // Marco actual del salto
     QPixmap *jumpPixmap; // Nuevo pixmap para el salto
     QTimer *jumpTimer;    // Temporizador para el salto
+    float jumpHeight; // Altura del salto
+    float initialY;       // Posición inicial en Y
 
 protected:
     void keyPressEvent(QKeyEvent *event) override;  // Añadir la función de eventos de teclado

@@ -8,6 +8,7 @@
 #include <QTimer> // Para el temporizador
 #include <QKeyEvent>
 #include "homero.h"
+#include "cono.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -23,12 +24,18 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+
 private:
     Ui::MainWindow *ui;
     QGraphicsScene* scene;   // La escena que se va a construir
     Homero *homero;
     QGraphicsPixmapItem* fondo1;  // Variable para el primer fondo
     QGraphicsPixmapItem* fondo2;  // Variable para el segundo fondo
+    Cono *cono; // Variable para el objeto Cono
+    void detenerJuego();  // Función para detener el juego
+    QTimer *backgroundTimer;  // Temporizador para mover el fondo
+    QTimer *coneTimer;        // Temporizador para mover el cono (si es necesario)
+
 
 private slots:
     void moveBackground();  // Función para mover el fondo

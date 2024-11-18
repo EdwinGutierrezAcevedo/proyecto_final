@@ -25,6 +25,9 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         ${PROJECT_SOURCES}
         homero.h homero.cpp
         imagenes/imagenes.qrc
+        cono.h cono.cpp
+
+
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET kingOFTheHill APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

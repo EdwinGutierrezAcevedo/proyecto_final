@@ -27,16 +27,29 @@ Homero::Homero(QObject *parent)
     }
     timer->start(50);
     connect(timer, &QTimer::timeout, this, &Homero::Actualizacion);
+    jumpHeight = 0; // Altura del salto inicial
+    initialY = y(); // Guardar la posición inicial en Y
 }
+
+void Homero::stopTimers()
+{
+    timer->stop();
+    if (isJumping) {
+        jumpTimer->stop();
+    }
+}
+
 
 
 void Homero::Actualizacion()
 {
     if (isJumping) {
         jumpFrame += ancho;
+        setY(y() - jumpHeight / 10); // Mover el personaje hacia arriba
         if (jumpFrame >= jumpPixmap->width()) {
             jumpFrame = 0;
             isJumping = false;
+            setY(initialY); // Volver a la posición inicial
             jumpTimer->stop();
             timer->start(100);  // Regresar al sprite original
         }
@@ -57,6 +70,8 @@ void Homero::Saltar()
         jumpFrame = 0;
         timer->stop();
         jumpTimer->start(100);
+        jumpHeight = 100; // Ajusta la altura del salto según sea necesario
+        initialY = y(); // Guardar la posición inicial en Y
     }
 }
 
